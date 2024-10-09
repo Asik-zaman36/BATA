@@ -1,0 +1,201 @@
+* {
+    /* border: 3px; */
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navigation__Bar {
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* margin: 20px; */
+    /* padding: 20px; */
+
+}
+
+.logo {
+    font-size: 90px;
+    color: red;
+    font-weight: bolder
+}
+
+.nav__UL {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+
+.nav__UL li{
+    margin: 10px;
+    padding: 10px;
+}
+   
+ 
+.nav__UL li a{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+.first {
+    color: red;
+}
+
+.allimage {
+    height: 250px;
+    /* width: 400px; */
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.allimage div {
+    flex: 1;
+}
+
+.allimage div img {
+    width: 100%;
+}
+
+.logo {}
+
+
+.ICON {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.test-2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.test-4 {
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navigation__Bar2 {
+    background-color: rgb(240, 255, 242);
+    height: 60px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__UL2 {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    gap: 25px;
+}
+
+
+.test-5 {
+    margin: 20px;
+    padding: 20px;
+}
+
+.test-6 {
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.shoes {
+    margin: 40px 0;
+    display: flex;
+    /* height: 500px; */
+    /* width: 400px; */
+
+
+}
+
+.shoes div {
+    flex: 1;
+    text-decoration: none;
+    text-align: center;
+}
+
+.shoes div img {
+    width: 100%;
+    flex: 1;
+}
+
+.test-11{
+    display: flex;
+    flex: 1;
+}
+.formal_pic{
+    /* border: 20px solid red; */
+    justify-content: center;
+    margin: 40px 0px;
+    display: flex;
+    flex: 1;
+    
+}
+.formaldiv{
+    flex: 1;
+}
+.formalpic div img{
+    width: 100%;
+    flex: 1;
+}
+
+
+.fashionworld{
+    display: flex;
+    flex: 1;
+}
+.fashionworld div img{
+    width: 100%;
+    flex: 1;
+}
+.ashik{
+    /* border: 20px solid  red; */
+    display: flex;
+    margin: 40px,0px;
+    flex: 1;
+    /* text-align: center; */
+}
+.ashik div{
+    display: flex;
+    flex: 1;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.last {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    /* list-style-type:  none; */
+    /* border-bottom: 10px solid white; */
+}
+.last li{
+    list-style: none;
+}
+.last_icon {
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+    /* position: relative; */
+}
+.last_icon li{
+   list-style: none;
+   margin: 5px;
+}
+.option{
+    background-color: black;
+    color: white;
+    /* text-decoration: none; */
+    /* display: flex; */
+}
